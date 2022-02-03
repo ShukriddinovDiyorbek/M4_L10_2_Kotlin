@@ -12,6 +12,13 @@
         android:background="@drawable/layout_backgraound"
         android:gravity="center"
         android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/billabong"
+            android:text="Instagram"
+            android:textColor="@color/white"
+            android:textSize="32sp" />
 
         <EditText
             android:id="@+id/name"
